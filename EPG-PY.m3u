@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-py.xml.gz"
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo.py" tvg-logo="https://i.imgur.com/6lVrFvb.png",PY - Telefuturo
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Paravision.py.png",PY - Paravisión
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:-1 tvg-id="SurTV.py" tvg-name="SurTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/SurTV.py.png",PY - Sur TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"PY - SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="C9N.py" tvg-name="C9N.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/C9N.py.png",PY - C9N
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",

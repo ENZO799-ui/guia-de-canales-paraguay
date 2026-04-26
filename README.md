@@ -1,1 +1,0 @@
-# guia-de-canales-paraguay

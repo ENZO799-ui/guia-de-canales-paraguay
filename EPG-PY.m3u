@@ -1,11 +1,13 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-py.xml.gz"
+#EXTINF:-1 tvg-id="NPY.py" tvg-name="NPY.py" tvg-logo="https://i.imgur.com/pUEkaiW.png",PY - NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo.py" tvg-logo="https://i.imgur.com/6lVrFvb.png",PY - Telefuturo
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Paravision.py.png",PY - Paravisión
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="SurTV.py" tvg-name="SurTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/SurTV.py.png",PY - Sur TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"PY - SNT
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",PY - SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-name="C9N.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/C9N.py.png",PY - C9N
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
@@ -49,11 +51,21 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="ParaguayTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png",PY - Paraguay TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
-
+#EXTINF:-1 tvg-id="ElTrece.py" tvg-name="ElTrece.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ElTrece.py.png",PY - El Trece
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+#EXTINF:-1 tvg-id="HEiNetwork.py" tvg-name="HEiNetwork.py" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2020/09/Radio-Hei.jpg",PY - HEI NOW (CANAL CERRADO)
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-name="MotorSurMedia.py" tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="🇵🇾PARAGUAY🇵🇾",PY - MOTOR SUR MEDIA
+https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
+#EXTINF:-1 tvg-id="RTVdelSur.py" tvg-name="RTVdelSur.py" tvg-logo="https://i.postimg.cc/gcHT1f58/rtv.png",PY - RTV PARANÁ
+https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
+#EXTINF:-1 tvg-id="CaritasTV.py" tvg-name="CaritasTV.py" tvg-logo="https://i.postimg.cc/P5nLVXQ2/caritas-tv.png",PY - CÁRITAS TV
+https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="NandejaraNeeTV.py" tvg-logo="https://i.postimg.cc/VLn9kH7Z/nande-jara.png",PY - ÑANDEJARA ÑE´E TV
+https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCCTV.py" tvg-name="RCCTV.py" tvg-logo="https://i.postimg.cc/Y2z94C4V/rcc.png",PY - RCC Tv
+https://rds3gen.desdeparaguay.net/rcctv/rcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChaquña.py" tvg-name="TVChaquña.py" tvg-logo="https://i.postimg.cc/wTZxC8bG/tv-chaquena.png",PY - TV Chaqueña
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAire.py" tvg-name="TVAire.py" tvg-logo="https://i.postimg.cc/LX4WNDTj/tva.png",PY - TVAire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8

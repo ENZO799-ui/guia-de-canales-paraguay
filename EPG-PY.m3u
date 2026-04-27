@@ -9,6 +9,46 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-name="C9N.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/C9N.py.png",PY - C9N
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="latele.py" tvg-name="latele.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/latele.py.png",PY - latele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="TelefeInternacional.py" tvg-name="TelefeInternacional.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TelefeInternacional.py.png",PY - Telefe Internacional
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.py" tvg-name="Telemundo.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Telemundo.py.png",PY - Telemundo
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-id="RPC.py" tvg-name="RPC.py" tvg-logo="https://i.imgur.com/cgIv5QK.png",PY - Trece
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Unicanal.py.png",PY - Unicanal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.py" tvg-name="LasEstrellas.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/LasEstrellas.py.png",PY - Las Estrellas
+https://iptv-epg.org/logos/Paraguay/LasEstrellas.py.png
+#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen.py" tvg-logo="https://i.imgur.com/vEMnZF4.png",PY - Gen 
+https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="PopuTV.py" tvg-name="PopuTV.py" tvg-logo="https://i.imgur.com/UqCogyZ.png",PY - PopuTV
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="MonumentalTV.py" tvg-name="MonumentalTV.py" tvg-logo="https://i.imgur.com/kEcOYML.png",PY - Monumental
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="E40.py" tvg-name="E40.py" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png",PY - E40
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABCTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ABCTV.py.png",PY - ABC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TVCamara.py" tvg-logo="https://i.imgur.com/Mfypr0t.png",PY - Camara
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png",PY - Farra Play
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/28.m3u8
+#EXTINF:-1 tvg-id="UnionTV.py" tvg-name="UnionTV.py" tvg-logo="https://i.imgur.com/No9YzNC.png",PY - Union Tv
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV.py" tvg-logo="https://i.ibb.co/6RqpxYR/mitv.png",PY - MiTv
+https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua
+#EXTINF:-1 tvg-id="GOTV.py" tvg-name="GOTV.py" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png",PY - GOTV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-name="BrunoMasiTV.py" tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png",PY - Bruno Masi
+https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-name="VenusMedia.py" tvg-logo="https://i.imgur.com/XwmUbfp.png",PY - Venus Media
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia939FM.py" tvg-logo="https://i.imgur.com/oMML5Ue.png",PY - Tropicalia Tv
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="ParaguayTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png",PY - Paraguay TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
@@ -17,4 +57,3 @@ https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
